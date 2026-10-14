@@ -1,0 +1,20 @@
+# AI Contribution Log - SLE-4
+
+## Student Details
+- Name: Pranav Gajanan Revankar
+- PRN: 25UAM087
+- Division: B
+
+## AI Contribution
+- Helped me arrange this ADR in the exact format required by the SLE-4 guideline (Context, Decision, Alternatives, Rationale, Consequences).
+- Helped me draft the wording of the Context and Rationale sections from my own SLE-1 to SLE-3 reports.
+- Recalculated the ratios quoted in the ADR (27.4x faster, 21.5x fewer nodes, 3.3% / 71.6% of reachable states) directly from my SLE-2 results table.
+- Helped me connect the decision to my SLE-3 C4 diagrams (Frontier, Neighbour Generator, Memory / Visited Set containers).
+- Helped me prepare the Part B journey summary and the Part D viva preparation notes.
+
+## My Contribution
+- I chose the decision myself: using BFS as the primary 8-puzzle solving strategy over DFS.
+- I checked every number in the ADR against my own SLE-2 report before accepting it.
+- I checked every container and component name against my own SLE-3 diagrams and code.
+- I filled in all my personal and header details myself.
+- I prepared and will give my own viva answers based on Part D.
